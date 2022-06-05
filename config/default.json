@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://hamzahraja11:phenolphthalein61889@contact-manager.khfavnn.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://hamzahraja11:phenolphthalein61889@contact-manager.khfavnn.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
